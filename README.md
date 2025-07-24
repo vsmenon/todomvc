@@ -2,6 +2,9 @@
 
 A Jaspr implementation of todomvc, written in Dart and compilable to either JavaScript or WebAssembly.
 
+- Javascript version: https://vsm-todomvc-js.web.app/
+- WebAssembly version: https://vsm-todomvc-wasm.web.app/
+
 ## Setup
 
 Install [dart](https://dart.dev/get-dart).
